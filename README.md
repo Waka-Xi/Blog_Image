@@ -1,3 +1,3 @@
 # Blog_Image
 
-For the image of Blog.
+The image for [blog](https://waka-xi.github.io).
